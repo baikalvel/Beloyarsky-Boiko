@@ -8,3 +8,4 @@ class MyWidget(QMainWindow):
     def __init__(self):
         super().__init__()
         uic.loadUi('Ui.ui', self)
+        pass
